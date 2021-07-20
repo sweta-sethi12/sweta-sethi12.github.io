@@ -1,3 +1,3 @@
 Sweta Sethi
 
-Master's student, Science Communicator
+Master's student, Science Communicator, Aspiring Astrophysicist.
