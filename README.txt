@@ -1,4 +1,4 @@
-"# Sweta Sethi\n"
-"\n"
+Sweta Sethi
 
-"## Master's student, Science Communicator, Aspiring Astrophysicist.\n"
+
+Master's student, Science Communicator, Aspiring Astrophysicist.
