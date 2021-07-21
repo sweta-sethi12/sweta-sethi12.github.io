@@ -1,3 +1,4 @@
-Sweta Sethi
+"# Sweta Sethi\n"
+"\n"
 
-Master's student, Science Communicator, Aspiring Astrophysicist.
+"## Master's student, Science Communicator, Aspiring Astrophysicist.\n"
