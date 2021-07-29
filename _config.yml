@@ -4,7 +4,8 @@ markdown: kramdown
 
 theme: jekyll-theme-slate
 
-plugins: - jekyll-sitemap
+plugins: 
+       - jekyll-sitemap
 
 gems: 
        - jekyll-sitemap
