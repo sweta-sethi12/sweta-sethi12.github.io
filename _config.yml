@@ -2,7 +2,7 @@ name: Sweta Sethi, Aspiring Astrophysicist
 markdown: kramdown
 
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 
 plugins: 
        - jekyll-sitemap
