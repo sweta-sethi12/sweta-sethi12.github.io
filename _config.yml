@@ -1,1 +1,11 @@
+name: Sweta Sethi, Aspiring Astrophysicist
+markdown: kramdown
+
+
 theme: jekyll-theme-slate
+
+plugins: 
+       - jekyll-sitemap
+
+gems: 
+       - jekyll-sitemap
